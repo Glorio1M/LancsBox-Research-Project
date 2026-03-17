@@ -6,7 +6,7 @@ This project presents a small corpus-based analysis of pronunciation discussions
 The dataset was compiled from Reddit discussions in r/EnglishLearning where users discuss pronunciation challenges related to the word "three".
 
 ## Corpus
-- Approximate size: 4,000 words
+- Approximate size: 1,000 words
 - Source: Reddit discussion posts
 - Format: plain text files
 
@@ -17,10 +17,10 @@ The corpus was analysed using LancsBox with the following corpus linguistic tech
 - Concordance (KWIC) analysis
 - Collocation analysis
 - N-gram analysis
-- Discourse marker analysis
+- Opinion marker analysis
 
 ## Research Focus
-The study investigates how learners discuss pronunciation difficulties, particularly the contrast between "three" and "tree".
+The study investigates how learners discuss pronunciation difficulties, particularly the contrast between "three", "tree", and "tree".
 
 ## Key Findings
 Results show frequent references to pronunciation comparison and articulatory descriptions involving tongue and teeth placement.
