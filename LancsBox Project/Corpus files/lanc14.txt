@@ -1,0 +1,2 @@
+Work on words like 'thin' and 'thought' to make sure you're getting the first consonant, before adding the r.
+
